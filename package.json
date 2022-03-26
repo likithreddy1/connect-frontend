@@ -2,7 +2,7 @@
   "name": "facebook-clone",
   "version": "0.1.0",
   "private": true,
-  "proxy":"https://connectmernstack.herokuapp.com",
+ 
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",
@@ -48,5 +48,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+   "proxy":"https://connectmernstack.herokuapp.com",
 }
